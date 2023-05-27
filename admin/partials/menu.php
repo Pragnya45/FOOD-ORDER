@@ -2,7 +2,8 @@
     <head>
         <title>Food order website - Home page</title>
         <link rel="stylesheet" href="../css/admin.css">
-        
+        <link rel="stylesheet" href="../css/home.css">
+
     </head>
     <body>
         <!--Menu section starts --> 
